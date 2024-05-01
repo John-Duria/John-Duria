@@ -1,3 +1,21 @@
-### Hi, my name is John Duria. I am an aspiring cybersecurity professional seeking an internship where I can utilize strong technical skills and knowledge to help protect data and systems in a real-world setting. I desire hands-on experience with hardware/software solutions and customer service-related tasks, where I can beneficially contribute to an organization and build a solid cybersecurity career. 
+<h1>Hi, I'm John, an <a href="https://www.linkedin.com/in/john-duria-669418207/">IT Professional</a>☺</h1>
 
-I am a highly motivated, dedicated professional with over 5 years of background skills and experience to perform effectively in a professional security capacity. Able to easily communicate services with customers and clients at varied skills and competency levels. Able to build and maintain excellent client relationships. Demonstrated ability to perform effectively in fast-paced, team-driven environments and handle confrontational situations. A work ethic characterized by personal and professional integrity, a positive attitude and a willingness to perform duties above and beyond the job description.
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/Josh
+[instagram]: https://www.instagram.com/Josh
+[linkedin]: https://linkedin.com/in/Josh
